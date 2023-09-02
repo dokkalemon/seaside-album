@@ -49,6 +49,7 @@ const photo = [
     './img/event/DSC_0095.jpg',
     './img/event/DSC_0096.jpg',
     './img/event/DSC_0097.jpg',
+    './img/event/DSC_0098.jpg',
 
 ]
 
